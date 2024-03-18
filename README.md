@@ -18,9 +18,16 @@ Bsc in informatics and Computer Engineering @FEUP
 <a href="http://www.github.com/avareno"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avareno&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <h1>College Projects</h1>
-<hr>
 
 | UC | Name | Grade | Description | Semester |
 | --- | --- | --- | --- | --- |
 | `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"> Image Manipulation</a> | $20/20 | Simple image manipulation program written in C++ | $1^{st} year, 2^{nd} semester$ |
 | `LDTS` | <a href = "https://github.com/avareno/Pong"> Pong Game</a> | $17.5/20 | Game of Pong with a few extra features | $2^{nd} year, 1^{st} semester$ |
+| `AED` | <a href = "https://github.com/avareno/Flight-Management-System"> Flight Management System</a> | $17.2/20 | Simple Flight Management System | $2^{nd} year, 1^{st} semester$ |
+
+
+<h1>Personal Projects</h1>
+
+| Name | Description |
+| <a href = "https://github.com/avareno/Port-Scanner"> Port Scanner </a> | sSimple Port Scanner using SFML library |
+
