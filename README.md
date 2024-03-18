@@ -19,5 +19,4 @@ Bsc in informatics and Computer Engineering @FEUP
 
 | UC | Name | Grade | Description | Semester |
 | --- | --- | --- | --- | --- |
-| `prog` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"  | Simple image manipulation program written in C++ | $2^{nd} year, 1^{st} semester$ |
-| `git diff` | Show file differences that **haven't been** staged |
+| `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"></a> | $20/20 | Simple image manipulation program written in C++ | $2^{nd} year, 1^{st} semester$ |
