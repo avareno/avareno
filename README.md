@@ -17,6 +17,9 @@ Bsc in informatics and Computer Engineering @FEUP
 
 <a href="http://www.github.com/avareno"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avareno&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<h1>College Projects</h1>
+<hr>
+
 | UC | Name | Grade | Description | Semester |
 | --- | --- | --- | --- | --- |
 | `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"> Image Manipulation</a> | $20/20 | Simple image manipulation program written in C++ | $1^{st} year, 2^{nd} semester$ |
