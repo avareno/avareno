@@ -29,6 +29,6 @@ Bsc in informatics and Computer Engineering @FEUP
 <h1>Personal Projects</h1>
 
 | Name | Description |
-| --- | --- | --- | --- | --- |
+| --- | --- |
 | <a href = "https://github.com/avareno/Port-Scanner"> Port Scanner </a> | Simple Port Scanner using SFML library |
 
