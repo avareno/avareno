@@ -21,9 +21,9 @@ Bsc in informatics and Computer Engineering @FEUP
 
 | UC | Name | Grade | Description | Semester |
 | --- | --- | --- | --- | --- |
-| `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"> Image Manipulation</a> | $20/20 | Simple image manipulation program written in C++ | $1^{st} year, 2^{nd} semester$ |
-| `LDTS` | <a href = "https://github.com/avareno/Pong"> Pong Game</a> | $17.5/20 | Game of Pong with a few extra features | $2^{nd} year, 1^{st} semester$ |
-| `AED` | <a href = "https://github.com/avareno/Flight-Management-System"> Flight Management System</a> | $17.2/20 | Simple Flight Management System | $2^{nd} year, 1^{st} semester$ |
+| `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"> Image Manipulation</a> | $20/20$ | Simple image manipulation program written in C++ | $1^{st} year, 2^{nd} semester$ |
+| `LDTS` | <a href = "https://github.com/avareno/Pong"> Pong Game</a> | $17.5/20$ | Game of Pong with a few extra features | $2^{nd} year, 1^{st} semester$ |
+| `AED` | <a href = "https://github.com/avareno/Flight-Management-System"> Flight Management System</a> | $17.2/20$ | Simple Flight Management System | $2^{nd} year, 1^{st} semester$ |
 
 
 <h1>Personal Projects</h1>
