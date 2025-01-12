@@ -31,4 +31,5 @@ Bsc in informatics and Computer Engineering @FEUP
 | Name | Description |
 | --- | --- |
 | <a href = "https://github.com/avareno/Port-Scanner"> Port Scanner </a> | Simple Port Scanner using SFML library |
+| <a href = "https://github.com/avareno/AI-MNIST-Dataset"> MNIST neural network </a> | Fundamentals of a Neural Network to guess a charachter from the MNIST dataset |
 
