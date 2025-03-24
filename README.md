@@ -14,7 +14,7 @@ Bsc in informatics and Computer Engineering @FEUP
 
 ### Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,rust,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,tensorflow,pytorch,tauri)](https://skillicons.dev)
 
 ### Tools
 
