@@ -10,7 +10,16 @@ Bsc in informatics and Computer Engineering @FEUP
 ### Socials<p align="left"> <a href="https://www.github.com/avareno" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/miguel-pascoal-cabral798" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c++,python,js,html,css,git,linux,sqlite,postgres,php,java,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,git,linux,sqlite,postgres,php,java,laravel)](https://skillicons.dev)
+
+### Currently learning:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,tensorflow,pytorch)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=obsidian,neovim)](https://skillicons.dev)
+
 
 ### Badges
 
