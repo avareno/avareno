@@ -36,6 +36,9 @@ Bsc in informatics and Computer Engineering @FEUP
 | `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"> Image Manipulation</a> | $20/20$ | Simple image manipulation program written in C++ | $1^{st} year, 2^{nd} semester$ |
 | `LDTS` | <a href = "https://github.com/avareno/Pong"> Pong Game</a> | $17.5/20$ | Game of Pong with a few extra features | $2^{nd} year, 1^{st} semester$ |
 | `AED` | <a href = "https://github.com/avareno/Flight-Management-System"> Flight Management System</a> | $17.2/20$ | Simple Flight Management System | $2^{nd} year, 1^{st} semester$ |
+| `LTW` | <a href = "https://github.com/avareno/pre-loved-site"> Pre Loved Website</a>| $17/20$ | Simple Pre Loved Website | $2^{nd} year, 2^{nd} semester$ |
+| `LCOM` | <a href = "https://github.com/avareno/LCOMAZE"> LCOMaze</a>| $19.96/20$ | Maze game developed as part of the LCOM course, utilizing low-level C programming on the MINIX operating system. | $2^{nd} year, 2^{nd} semester$ |
+| `CPD` | <a href = "https://github.com/FilipeGaio4/CPD-Proj1"> Multi-thread implementation of matrix multiplication</a>| $?/20$ | Single-thread and multi-thread implementation of different matrix multiplication algorithms. | $3^{rd} year, 2^{nd} semester$ |
 
 
 <h1>Personal Projects</h1>
