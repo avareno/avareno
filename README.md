@@ -37,7 +37,6 @@ Bsc in informatics and Computer Engineering @FEUP
 | `AED` | <a href = "https://github.com/avareno/Flight-Management-System"> Flight Management System</a> | $17.2/20$ | Simple Flight Management System | $2^{nd} year, 1^{st} semester$ |
 | `LTW` | <a href = "https://github.com/avareno/pre-loved-site"> Pre Loved Website</a>| $17/20$ | Simple Pre Loved Website | $2^{nd} year, 2^{nd} semester$ |
 | `LCOM` | <a href = "https://github.com/avareno/LCOMAZE"> LCOMaze</a>| $19.96/20$ | Maze game developed as part of the LCOM course, utilizing low-level C programming on the MINIX operating system. | $2^{nd} year, 2^{nd} semester$ |
-| `CPD` | <a href = "https://github.com/FilipeGaio4/CPD-Proj1"> Multi-thread implementation of matrix multiplication</a>| $?/20$ | Single-thread and multi-thread implementation of different matrix multiplication algorithms. | $3^{rd} year, 2^{nd} semester$ |
 
 
 <h1>Personal Projects</h1>
@@ -45,4 +44,5 @@ Bsc in informatics and Computer Engineering @FEUP
 | Name | Description |
 | --- | --- |
 | <a href = "https://github.com/avareno/AI-MNIST-Dataset"> MNIST neural network </a> | Fundamentals of a Neural Network to guess a charachter from the MNIST dataset |
+| <a href = "https://github.com/avareno/calcAPI"> Calculator REST API </a> | Fundamentals of a REST API, using KAFKA as a broker |
 
