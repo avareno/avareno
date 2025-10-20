@@ -14,11 +14,11 @@ Bsc in informatics and Computer Engineering @FEUP
 
 ### Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,rust,tensorflow,pytorch,tauri,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,tensorflow,pytorch,tauri,kafka)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,neovim,idea,notion,docker,postman)](https://skillicons.dev)
 
 
 ### Badges
