@@ -21,11 +21,15 @@ Bsc in informatics and Computer Engineering @FEUP
 [![My Skills](https://skillicons.dev/icons?i=obsidian,neovim,idea,notion,docker,postman)](https://skillicons.dev)
 
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <a href="http://www.github.com/avareno"><img src="https://github-readme-stats.vercel.app/api?username=avareno&show_icons=true&hide=&count_private=true&title_color=74c7ec&text_color=cdd6f4&icon_color=74c7ec&bg_color=11111b&hide_border=true&show_icons=true" alt="avareno's GitHub stats" /></a>
 
-<a href="http://www.github.com/avareno"><img src="https://github-readme-stats.vercel.app/api?username=avareno&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="avareno's GitHub stats" /></a>
+<a href="http://www.github.com/avareno"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avareno&stroke=cdd6f4&background=11111b&ring=74c7ec&fire=74c7ec&currStreakNum=cdd6f4&currStreakLabel=74c7ec&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4&hide_border=true" /></a>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avareno&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 <h1>College Projects</h1>
